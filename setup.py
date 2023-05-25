@@ -13,8 +13,8 @@ setup(
     description='Chinese Address Parser and Extraction Tool,Chinese Province, City and Area Recognition Utilities',
     long_description=readme,
     long_description_content_type='text/markdown',
-    author='XuMing',
-    author_email='xuming624@qq.com',
+    author='xxxxx',
+    author_email='xxxxxxx@qq.com',
     url='https://github.com/shibing624/addressparser',
     license="MIT",
     classifiers=[

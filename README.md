@@ -7,6 +7,8 @@
 [![GitHub issues](https://img.shields.io/github/issues/shibing624/addressparser.svg)](https://github.com/shibing624/addressparser/issues)
 [![Wechat Group](http://vlog.sfyc.ltd/wechat_everyday/wxgroup_logo.png?imageView2/0/w/60/h/20)](#Contact)
 
+> 本项目借鉴[addressparser](https://pypi.org/project/addressparser/), 并做微调
+
 
 中文地址提取工具，支持中国三级区划地址（省、市、区）提取和级联映射，支持地址目的地热力图绘制。适配python2和python3。
 
